@@ -1,5 +1,5 @@
-# GARI
-GARI (Genetic Algorithm for Reproducing Images) is a Python project that uses the PyGAD library for reproducing images using the genetic algorithm. GARI reproduces a single image using Genetic Algorithm (GA) by evolving pixel values. This project works with both color and gray images.
+# Genetic Algorithm for Reproducing Images
+ The project uses the PyGAD library for reproducing images using the genetic algorithm. GARI reproduces a single image using Genetic Algorithm (GA) by evolving pixel values. This project works with both color and gray images.
 
 For implementing the genetic algorithm, the PyGAD library is used. Check its documentation here: https://pygad.readthedocs.io
 
